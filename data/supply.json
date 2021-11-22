@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nama_produk": "Barang 1",
+        "jumlah": 12,
+        "deskripsi": "Test",
+        "jenis": "Test1",
+        "status": "Test12"
+    }
+]
